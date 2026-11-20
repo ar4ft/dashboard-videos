@@ -17,12 +17,14 @@ The `main` branch only holds this index. The MP4s live on other branches:
 
 Use the branch picker above, or the **File** links below.
 
-## Videos (46)
+## Videos (48)
 
-### 2026-11-20 (46)
+### 2026-11-20 (48)
 
 | Title | File | CDN | Story | Created | Pinned |
 |---|---|---|---|---|---|
+| openRocode: an open harness that lets multimodal LLMs drive robots like computer use | [x-2123212999607611426.mp4](https://github.com/ar4ft/dashboard-videos/blob/v-20261120-4/x-2123212999607611426.mp4) | [jsDelivr](https://cdn.jsdelivr.net/gh/ar4ft/dashboard-videos@beaee41ce96b0f6ead593ce76f5ee5083f122064/x-2123212999607611426.mp4) | [story](https://x.com/noahatwhere/status/2123212999607611426) | 2026-11-20 18:00 |  |
+| Zerodha's Blobasaur: distributed, high-performance blob storage on SQLite | [hn-50557537.mp4](https://github.com/ar4ft/dashboard-videos/blob/v-20261120-4/hn-50557537.mp4) | [jsDelivr](https://cdn.jsdelivr.net/gh/ar4ft/dashboard-videos@04d1cc63397fc169ff17113a7a259dfd93484a5e/hn-50557537.mp4) | [story](https://zerodha.tech/blog/high-performance-distributed-blob-storage/) | 2026-11-20 18:00 |  |
 | tufazip compresses 1 GB of Wikipedia to 105.39 MB with a pure Transformer predictor | [x-2123350647273631907.mp4](https://github.com/ar4ft/dashboard-videos/blob/v-20261120-4/x-2123350647273631907.mp4) | [jsDelivr](https://cdn.jsdelivr.net/gh/ar4ft/dashboard-videos@7d47956758f64b85f3e8b7483f36480ed962d6c5/x-2123350647273631907.mp4) | [story](https://x.com/tufalabs/status/2123350647273631907) | 2026-11-20 16:48 |  |
 | n56-patcher boots iOS 15.8.8 on a 2014 iPhone 6 Plus that Apple stopped at iOS 12 | [x-2123352378552598676.mp4](https://github.com/ar4ft/dashboard-videos/blob/v-20261120-4/x-2123352378552598676.mp4) | [jsDelivr](https://cdn.jsdelivr.net/gh/ar4ft/dashboard-videos@53aabaa5847a128c05dbb3b082d63d24137f163f/x-2123352378552598676.mp4) | [story](https://x.com/qwerty__cs/status/2123352378552598676) | 2026-11-20 16:47 |  |
 | How the European Commission rolled out Matrix to more than 40k staff | [hn-50558533.mp4](https://github.com/ar4ft/dashboard-videos/blob/v-20261120-4/hn-50558533.mp4) | [jsDelivr](https://cdn.jsdelivr.net/gh/ar4ft/dashboard-videos@9709037dae9a6eaf8362721a111b6a290f01e462/hn-50558533.mp4) | [story](https://element.io/blog/how-the-european-commission-rolled-out-matrix-to-more-than-40-000-staff/) | 2026-11-20 16:46 |  |
