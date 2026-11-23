@@ -17,7 +17,23 @@ The `main` branch only holds this index. The MP4s live on other branches:
 
 Use the branch picker above, or the **File** links below.
 
-## Videos (150)
+## Videos (161)
+
+### 2026-11-23 (11)
+
+| Title | File | CDN | Story | Created | Pinned |
+|---|---|---|---|---|---|
+| MiniMax's internal model breaks NIST candidate ciphers and peer-reviewed schemes in automated cryptanalysis | [hn-50601022.mp4](https://github.com/ar4ft/dashboard-videos/blob/v-20261123-1/hn-50601022.mp4) | [jsDelivr](https://cdn.jsdelivr.net/gh/ar4ft/dashboard-videos@10422e91f7c33ab3903cf9544fc5c994fafe08f5/hn-50601022.mp4) | [story](https://www.minimax.io/blog/practical-cryptanalysis-with-minimaxs-latest-internal-model) | 2026-11-23 08:05 |  |
+| Type-C adds variants, pattern matching, generics and errors-as-values to C11 | [hn-50602561.mp4](https://github.com/ar4ft/dashboard-videos/blob/v-20261123-1/hn-50602561.mp4) | [jsDelivr](https://cdn.jsdelivr.net/gh/ar4ft/dashboard-videos@35c98813d541ce3cadc8c53d4b46a09aed05b1fd/hn-50602561.mp4) | [story](https://github.com/stass/type-c) | 2026-11-23 08:04 |  |
+| A beginner's guide to running local AI at home with Unsloth Desktop, Inkling and Qwen | [hn-50603845.mp4](https://github.com/ar4ft/dashboard-videos/blob/v-20261123-1/hn-50603845.mp4) | [jsDelivr](https://cdn.jsdelivr.net/gh/ar4ft/dashboard-videos@38a4f7056452148a21e9273f6d689fe9a6d0fb28/hn-50603845.mp4) | [story](https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth) | 2026-11-23 08:03 |  |
+| App Store Connect CLI 7.2.0 adds China app compliance, APNs keys from the terminal and schema checks | [x-2124610156285845962.mp4](https://github.com/ar4ft/dashboard-videos/blob/v-20261123-1/x-2124610156285845962.mp4) | [jsDelivr](https://cdn.jsdelivr.net/gh/ar4ft/dashboard-videos@976eb6b9d7a39305f5da8c7f6e70b9f0c084576f/x-2124610156285845962.mp4) | [story](https://x.com/rudrank/status/2124610156285845962) | 2026-11-23 08:03 |  |
+| Nestvane runs Android 17 inside an ordinary iPhone app with no JIT or jailbreak | [x-2124612229253435558.mp4](https://github.com/ar4ft/dashboard-videos/blob/v-20261123-1/x-2124612229253435558.mp4) | [jsDelivr](https://cdn.jsdelivr.net/gh/ar4ft/dashboard-videos@b7cd248a897e9c5bba7c671fde4d35defe14bb53/x-2124612229253435558.mp4) | [story](https://x.com/everettjf/status/2124612229253435558) | 2026-11-23 08:02 |  |
+| iOS 27's Connectivity Assist uses cellular data when Wi-Fi is weak or unusable | [x-2124624646452461957.mp4](https://github.com/ar4ft/dashboard-videos/blob/v-20261123-1/x-2124624646452461957.mp4) | [jsDelivr](https://cdn.jsdelivr.net/gh/ar4ft/dashboard-videos@74c0a720b8050cfc97f81dff9f009cf0718ec9b9/x-2124624646452461957.mp4) | [story](https://x.com/9to5mac/status/2124624646452461957) | 2026-11-23 08:01 |  |
+| Hammerspoon 2 beta: the macOS automation tool is rewritten to use JavaScript instead of Lua | [hn-50606408.mp4](https://github.com/ar4ft/dashboard-videos/blob/v-20261123-1/hn-50606408.mp4) | [jsDelivr](https://cdn.jsdelivr.net/gh/ar4ft/dashboard-videos@0170348ac754cb156bad098fcf8a1bd1a1ef44bd/hn-50606408.mp4) | [story](https://www.hammerspoon.org/) | 2026-11-23 08:01 |  |
+| xnulinux runs the macOS kernel as a Linux module and boots the full macOS desktop | [hn-50607261.mp4](https://github.com/ar4ft/dashboard-videos/blob/v-20261123-1/hn-50607261.mp4) | [jsDelivr](https://cdn.jsdelivr.net/gh/ar4ft/dashboard-videos@bd1fd4153cfe38cff09fb81f03af0555f909f0ce/hn-50607261.mp4) | [story](https://github.com/AFK-surf/xnulinux) | 2026-11-23 08:00 |  |
+| GLM-5.4 is Z.ai's first flagship Loop Transformer, reusing shared layers for deeper reasoning | [hn-50609685.mp4](https://github.com/ar4ft/dashboard-videos/blob/v-20261123-1/hn-50609685.mp4) | [jsDelivr](https://cdn.jsdelivr.net/gh/ar4ft/dashboard-videos@f162be802e330eeda32bb87316bffd0a829440d8/hn-50609685.mp4) | [story](https://z.ai/blog/glm-5.4) | 2026-11-23 07:59 |  |
+| Homelab build hangs four 32 GB V100s off a Lenovo mini PC for 128 GB of VRAM | [x-2124821529309667810.mp4](https://github.com/ar4ft/dashboard-videos/blob/v-20261123-1/x-2124821529309667810.mp4) | [jsDelivr](https://cdn.jsdelivr.net/gh/ar4ft/dashboard-videos@f68b3ff10b70f5a773c9d2374b8662aa4a6e739e/x-2124821529309667810.mp4) | [story](https://x.com/tomshardware/status/2124821529309667810) | 2026-11-23 07:59 |  |
+| Gabriel's Horn: a solid with finite volume and infinite surface area | [reading-abakcus-gabriels-horn.mp4](https://github.com/ar4ft/dashboard-videos/blob/v-20261123-1/reading-abakcus-gabriels-horn.mp4) | [jsDelivr](https://cdn.jsdelivr.net/gh/ar4ft/dashboard-videos@40a94bc4757e7cb206a6e76871f506c88e1875be/reading-abakcus-gabriels-horn.mp4) | [story](https://abakcus.com/articles/gabriels-horn) | 2026-11-23 07:58 |  |
 
 ### 2026-11-22 (24)
 
