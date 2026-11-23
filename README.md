@@ -17,12 +17,13 @@ The `main` branch only holds this index. The MP4s live on other branches:
 
 Use the branch picker above, or the **File** links below.
 
-## Videos (198)
+## Videos (199)
 
-### 2026-11-23 (48)
+### 2026-11-23 (49)
 
 | Title | File | CDN | Story | Created | Pinned |
 |---|---|---|---|---|---|
+| Apple removed my open-source app from EU App Stores after 9 years | [hn-50616933.mp4](https://github.com/ar4ft/dashboard-videos/blob/v-20261123-5/hn-50616933.mp4) | [jsDelivr](https://cdn.jsdelivr.net/gh/ar4ft/dashboard-videos@72c1975c8f4d533063493440c8d0a0e23b9557f5/hn-50616933.mp4) | [story](https://github.com/glushchenko/fsnotes/discussions/2056) | 2026-11-23 18:37 |  |
 | Elixir HLS compiles Elixir functions into FPGA circuits | [hn-50584526.mp4](https://github.com/ar4ft/dashboard-videos/blob/v-20261123-5/hn-50584526.mp4) | [jsDelivr](https://cdn.jsdelivr.net/gh/ar4ft/dashboard-videos@5e49ab9b877a85f8698a8d5769b21fc5a85843e5/hn-50584526.mp4) | [story](https://github.com/elixir-hls/elixir-hls) | 2026-11-23 18:22 |  |
 | Spacecraft reaches Mercury on second-ever mission to enter its orbit | [hn-50587439.mp4](https://github.com/ar4ft/dashboard-videos/blob/v-20261123-5/hn-50587439.mp4) | [jsDelivr](https://cdn.jsdelivr.net/gh/ar4ft/dashboard-videos@3118dda88dc68112cdebd487e016fca8e15612a5/hn-50587439.mp4) | [story](https://www.theguardian.com/science/2026/nov/20/spacecraft-mercury-second-ever-mission-orbit-bepicolombo) | 2026-11-23 18:22 |  |
 | The Best Children's Math Books, from Toddlers to Teens | [reading-abakcus-best-children-math-books.mp4](https://github.com/ar4ft/dashboard-videos/blob/v-20261123-4/reading-abakcus-best-children-math-books.mp4) | [jsDelivr](https://cdn.jsdelivr.net/gh/ar4ft/dashboard-videos@5b9d1fb83ae09f7589f3f520cdd8e02e290f992a/reading-abakcus-best-children-math-books.mp4) | [story](https://abakcus.com/book-lists/best-children-math-books) | 2026-11-23 18:21 |  |
