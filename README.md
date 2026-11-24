@@ -17,7 +17,21 @@ The `main` branch only holds this index. The MP4s live on other branches:
 
 Use the branch picker above, or the **File** links below.
 
-## Videos (199)
+## Videos (208)
+
+### 2026-11-24 (9)
+
+| Title | File | CDN | Story | Created | Pinned |
+|---|---|---|---|---|---|
+| Arctic: a practical lock-free adaptive radix tree (OSDI '26) | [hn-50592307.mp4](https://github.com/ar4ft/dashboard-videos/blob/v-20261124-1/hn-50592307.mp4) | [jsDelivr](https://cdn.jsdelivr.net/gh/ar4ft/dashboard-videos@c68f1a065b94c9d967bdf7bfb80b152f8cfaf97a/hn-50592307.mp4) | [story](https://www.usenix.org/conference/osdi26/presentation/ni) | 2026-11-24 08:06 |  |
+| sigfpe's Derivative flipping: polynomial pairings for automatic differentiation | [hn-50594935.mp4](https://github.com/ar4ft/dashboard-videos/blob/v-20261124-1/hn-50594935.mp4) | [jsDelivr](https://cdn.jsdelivr.net/gh/ar4ft/dashboard-videos@7fd872c3162672f2e8f2ffa8b09d5a81d6d901c5/hn-50594935.mp4) | [story](https://blog.sigfpe.com/2026/11/derivative-flipping.html) | 2026-11-24 08:05 |  |
+| Nil Coalescing: build a fully custom About window for a SwiftUI Mac app | [x-2124604599478948032.mp4](https://github.com/ar4ft/dashboard-videos/blob/v-20261124-1/x-2124604599478948032.mp4) | [jsDelivr](https://cdn.jsdelivr.net/gh/ar4ft/dashboard-videos@d13ef2479e6672d9c43673d9ad9f67e3410658bc/x-2124604599478948032.mp4) | [story](https://x.com/NilCoalescing/status/2124604599478948032) | 2026-11-24 08:05 |  |
+| Perplexity charts can just reflect more code in the training mix | [hn-50607512.mp4](https://github.com/ar4ft/dashboard-videos/blob/v-20261124-1/hn-50607512.mp4) | [jsDelivr](https://cdn.jsdelivr.net/gh/ar4ft/dashboard-videos@5e347bb1c4ad463079ce74a25ffd559f55e89fdd/hn-50607512.mp4) | [story](https://micjm.com/blog/lowering-perplexity-without-scaling/) | 2026-11-24 08:04 |  |
+| Latent Introspection: a Qwen 32B model can detect injected concepts | [hn-50620328.mp4](https://github.com/ar4ft/dashboard-videos/blob/v-20261124-1/hn-50620328.mp4) | [jsDelivr](https://cdn.jsdelivr.net/gh/ar4ft/dashboard-videos@5822afa592505cb40bb360143a919ef4d7a0857c/hn-50620328.mp4) | [story](https://arxiv.org/abs/2602.20031) | 2026-11-24 08:03 |  |
+| Freeing the iPod nano 5G: an untethered boot into Rockbox | [hn-50620721.mp4](https://github.com/ar4ft/dashboard-videos/blob/v-20261124-1/hn-50620721.mp4) | [jsDelivr](https://cdn.jsdelivr.net/gh/ar4ft/dashboard-videos@f06f540190fdd62bb7dc9a6e49c3dee47a6f55f8/hn-50620721.mp4) | [story](https://viktorkrapivin.com/blog/nano5g-priv-prvd) | 2026-11-24 08:02 |  |
+| Feynman's letter to his wife: the love letter he never mailed | [reading-abakcus-feynman-letter-to-his-wife.mp4](https://github.com/ar4ft/dashboard-videos/blob/v-20261124-1/reading-abakcus-feynman-letter-to-his-wife.mp4) | [jsDelivr](https://cdn.jsdelivr.net/gh/ar4ft/dashboard-videos@e6f4d62fed7c9248d1339e6a8a6f901095b621c1/reading-abakcus-feynman-letter-to-his-wife.mp4) | [story](https://abakcus.com/articles/feynman-letter-to-his-wife) | 2026-11-24 08:02 |  |
+| Harmonic's Aristotle proves a 2,843-frame Celeste Classic speedrun is optimal | [hn-50622612.mp4](https://github.com/ar4ft/dashboard-videos/blob/v-20261124-1/hn-50622612.mp4) | [jsDelivr](https://cdn.jsdelivr.net/gh/ar4ft/dashboard-videos@b4d3141d2b18a470d56df509793432fee61ae919/hn-50622612.mp4) | [story](https://www.harmonic.fun/news/celeste-classic-speedrun/) | 2026-11-24 08:01 |  |
+| Minted: a SwiftUI component that strikes any SVG into a 3D gold coin | [x-2125066123179946444.mp4](https://github.com/ar4ft/dashboard-videos/blob/v-20261124-1/x-2125066123179946444.mp4) | [jsDelivr](https://cdn.jsdelivr.net/gh/ar4ft/dashboard-videos@557d3703191e95067440d0367a98194d2c356509/x-2125066123179946444.mp4) | [story](https://x.com/protoduct_ai/status/2125066123179946444) | 2026-11-24 08:00 |  |
 
 ### 2026-11-23 (49)
 
