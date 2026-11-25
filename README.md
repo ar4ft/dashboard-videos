@@ -17,12 +17,18 @@ The `main` branch only holds this index. The MP4s live on other branches:
 
 Use the branch picker above, or the **File** links below.
 
-## Videos (259)
+## Videos (265)
 
-### 2026-11-25 (31)
+### 2026-11-25 (37)
 
 | Title | File | CDN | Story | Created | Pinned |
 |---|---|---|---|---|---|
+| Predicting LoRA size for any dataset | [hn-50635783.mp4](https://github.com/ar4ft/dashboard-videos/blob/v-20261125-4/hn-50635783.mp4) | [jsDelivr](https://cdn.jsdelivr.net/gh/ar4ft/dashboard-videos@240b05c6f30a8425f3fefe851047badd5552c446/hn-50635783.mp4) | [story](https://engram.com/blog/lora-size) | 2026-11-25 18:07 |  |
+| Windows Loudness Equalization, reverse-engineered and ported to PipeWire | [hn-50641171.mp4](https://github.com/ar4ft/dashboard-videos/blob/v-20261125-4/hn-50641171.mp4) | [jsDelivr](https://cdn.jsdelivr.net/gh/ar4ft/dashboard-videos@c611ace4f1e1b5a75839556e66d90fab8fbacf2f/hn-50641171.mp4) | [story](https://github.com/xoxorwr/pw-loudness-eq) | 2026-11-25 18:06 |  |
+| I checked Clojure's core with Lean and found unreported bugs | [hn-50642939.mp4](https://github.com/ar4ft/dashboard-videos/blob/v-20261125-4/hn-50642939.mp4) | [jsDelivr](https://cdn.jsdelivr.net/gh/ar4ft/dashboard-videos@8c1866a06397a6ad7ff9e984193543304aef11c3/hn-50642939.mp4) | [story](https://s.conao3.com/blog/2026/e4f733) | 2026-11-25 18:06 |  |
+| 1Password Security Incident | [hn-50644817.mp4](https://github.com/ar4ft/dashboard-videos/blob/v-20261125-4/hn-50644817.mp4) | [jsDelivr](https://cdn.jsdelivr.net/gh/ar4ft/dashboard-videos@0dab0e60f43729facb88db372ba8d53b63deac26/hn-50644817.mp4) | [story](https://1password.com/blog/update-on-nov-2026-security-incident) | 2026-11-25 18:05 |  |
+| Nfs2root: A 12-year-old pre-auth remote root in the Linux kernel's NFS server | [hn-50647161.mp4](https://github.com/ar4ft/dashboard-videos/blob/v-20261125-4/hn-50647161.mp4) | [jsDelivr](https://cdn.jsdelivr.net/gh/ar4ft/dashboard-videos@c261414a344ed6c474473c2805c908cde17ea8c0/hn-50647161.mp4) | [story](https://opensec.in/blog/nfs2root-cve-2026-99362) | 2026-11-25 18:04 |  |
+| Much shorter version of GRH Lean verification from Anthropic | [hn-50648050.mp4](https://github.com/ar4ft/dashboard-videos/blob/v-20261125-4/hn-50648050.mp4) | [jsDelivr](https://cdn.jsdelivr.net/gh/ar4ft/dashboard-videos@de233e423b0c65b311987e91a8b79ea7701d8d3d/hn-50648050.mp4) | [story](https://github.com/lsernau/grh-lean) | 2026-11-25 18:04 |  |
 | New rewritable antimony selenide display shows an image for months without power | [hn-50626430.mp4](https://github.com/ar4ft/dashboard-videos/blob/v-20261125-4/hn-50626430.mp4) | [jsDelivr](https://cdn.jsdelivr.net/gh/ar4ft/dashboard-videos@79062d65e395c093462195228b974b49df329d7b/hn-50626430.mp4) | [story](https://tmos.org.au/news/new-rewritable-displays-can-show-an-image-for-months-without-power/) | 2026-11-25 08:41 |  |
 | Reading lingsante-3.1-air-vl's shard headers: 124.8B params, 5.5B active | [x-2125201633940484274.mp4](https://github.com/ar4ft/dashboard-videos/blob/v-20261125-4/x-2125201633940484274.mp4) | [jsDelivr](https://cdn.jsdelivr.net/gh/ar4ft/dashboard-videos@59c3e282a1a3a166da4a042a0e2732799809dcee/x-2125201633940484274.mp4) | [story](https://x.com/tensorquay/status/2125201633940484274) | 2026-11-25 08:40 |  |
 | Edgent brings free, fully on-device speech AI to iPhone and Mac | [x-2125244296182063561.mp4](https://github.com/ar4ft/dashboard-videos/blob/v-20261125-3/x-2125244296182063561.mp4) | [jsDelivr](https://cdn.jsdelivr.net/gh/ar4ft/dashboard-videos@5fac3e15b8feb00cbfdcbc3b60c13dece943a950/x-2125244296182063561.mp4) | [story](https://x.com/TheStageAI/status/2125244296182063561) | 2026-11-25 08:39 |  |
