@@ -17,12 +17,18 @@ The `main` branch only holds this index. The MP4s live on other branches:
 
 Use the branch picker above, or the **File** links below.
 
-## Videos (297)
+## Videos (303)
 
-### 2026-11-26 (25)
+### 2026-11-26 (31)
 
 | Title | File | CDN | Story | Created | Pinned |
 |---|---|---|---|---|---|
+| The 25 Best Calculus Books to Learn Calculus, in Reading Order | [reading-abakcus-best-calculus-books.mp4](https://github.com/ar4ft/dashboard-videos/blob/v-20261126-4/reading-abakcus-best-calculus-books.mp4) | [jsDelivr](https://cdn.jsdelivr.net/gh/ar4ft/dashboard-videos@9ca77d3ac7fbc631ceb87e2a25554af50440fdcb/reading-abakcus-best-calculus-books.mp4) | [story](https://abakcus.com/book-lists/best-calculus-books) | 2026-11-26 18:10 |  |
+| NormalScript: A perfectly normal scripting language | [hn-50651430.mp4](https://github.com/ar4ft/dashboard-videos/blob/v-20261126-4/hn-50651430.mp4) | [jsDelivr](https://cdn.jsdelivr.net/gh/ar4ft/dashboard-videos@ea58b4c6a9dad63ed1014006fd0e0eb24bdfdcaa/hn-50651430.mp4) | [story](https://psychoscript.com/) | 2026-11-26 18:09 |  |
+| Google Will Make AI Agents Use Its MCP Servers. The Gmail One Can't Send Email | [hn-50653477.mp4](https://github.com/ar4ft/dashboard-videos/blob/v-20261126-4/hn-50653477.mp4) | [jsDelivr](https://cdn.jsdelivr.net/gh/ar4ft/dashboard-videos@28ca2a67a0b6cd9d7c89ece9036666bbeba3d552/hn-50653477.mp4) | [story](https://techstackups.com/articles/google-workspace-ai-agents-mcp/) | 2026-11-26 18:09 |  |
+| Nextcloud Office Desktop app | [hn-50654289.mp4](https://github.com/ar4ft/dashboard-videos/blob/v-20261126-4/hn-50654289.mp4) | [jsDelivr](https://cdn.jsdelivr.net/gh/ar4ft/dashboard-videos@ba16e017bf8205ee48980759cc12dc2de0de65da/hn-50654289.mp4) | [story](https://nextcloud.com/blog/euro-office-comes-to-your-desktop-with-the-nextcloud-office-desktop-app/) | 2026-11-26 18:08 |  |
+| Show HN: SimDrop – Running iOS simulators in the macOS Finder sidebar | [hn-50657070.mp4](https://github.com/ar4ft/dashboard-videos/blob/v-20261126-4/hn-50657070.mp4) | [jsDelivr](https://cdn.jsdelivr.net/gh/ar4ft/dashboard-videos@06662df13cf670a5701746dec58c9058795840ac/hn-50657070.mp4) | [story](https://github.com/rxliuli/sim-drop) | 2026-11-26 18:07 |  |
+| AI made self-hosting fun again | [hn-50660180.mp4](https://github.com/ar4ft/dashboard-videos/blob/v-20261126-3/hn-50660180.mp4) | [jsDelivr](https://cdn.jsdelivr.net/gh/ar4ft/dashboard-videos@6eea9caa4d3bf6e115b3467b4e7eaaa080c558e3/hn-50660180.mp4) | [story](https://janlukas.blog/posts/ai-self-hosting) | 2026-11-26 18:07 |  |
 | Porting Rockbox to an undocumented $9 Aliexpress 'YP3' MP3 Player with LLMs | [hn-50624446.mp4](https://github.com/ar4ft/dashboard-videos/blob/v-20261126-3/hn-50624446.mp4) | [jsDelivr](https://cdn.jsdelivr.net/gh/ar4ft/dashboard-videos@c470e0e1406c8f62e8730759bf55fa28f4ff893d/hn-50624446.mp4) | [story](https://jayd.ml/2026/11/14/rockbox-on-yp3.html) | 2026-11-26 08:34 |  |
 | What VP ≠ VNP Means (In 3 Minutes) | [hn-50626466.mp4](https://github.com/ar4ft/dashboard-videos/blob/v-20261126-3/hn-50626466.mp4) | [jsDelivr](https://cdn.jsdelivr.net/gh/ar4ft/dashboard-videos@a6af9f8e6897f60d91dc0ba894af7c55b5b784e5/hn-50626466.mp4) | [story](https://www.friedgil.com/vpvnp) | 2026-11-26 08:33 |  |
 | Slow Ubuntu security response times | [hn-50647181.mp4](https://github.com/ar4ft/dashboard-videos/blob/v-20261126-3/hn-50647181.mp4) | [jsDelivr](https://cdn.jsdelivr.net/gh/ar4ft/dashboard-videos@f8ae4816441b9fd8872b41c9478b8fbad46f7948/hn-50647181.mp4) | [story](https://www.openwall.com/lists/oss-security/2026/11/25/9) | 2026-11-26 08:32 |  |
